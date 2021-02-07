@@ -1,0 +1,2 @@
+cd C:\Users\AppCloud\eclipse-workspace\eNetBanking_v1
+mvn clean install
